@@ -7,7 +7,7 @@ const Chats = () => {
                 <img src="https://static.miraheze.org/bluearchivewiki/thumb/6/63/Shiroko.png/266px-Shiroko.png" alt="" />
                 <div className="userChatInfo">
                     <span>Shigemi</span>
-                    <p>Let's have se-</p>
+                    <p>Let's have dinner</p>
                 </div>
             </div>
             <div className="userChat">
@@ -21,7 +21,7 @@ const Chats = () => {
                 <img src="https://staticc.sportskeeda.com/editor/2023/04/54332-16826412417817-1920.jpg?w=840" alt="" />
                 <div className="userChatInfo">
                     <span>Elle</span>
-                    <p>*lick*</p>
+                    <p>hi elle</p>
                 </div>
             </div>
         </div>
