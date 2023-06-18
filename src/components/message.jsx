@@ -22,7 +22,6 @@ const Message = ({message}) => {
                 : data.user.photoURL
                 } 
                 alt="" />
-                <span>Just now</span>
             </div>
             <div className="messageContent">
                 <p>{message.text}</p>
