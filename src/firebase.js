@@ -4,13 +4,14 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBgrFxB9fxsqm0SCdzI0krAcqbZ1f6YPd8",
-  authDomain: "hubbub-b5bdc.firebaseapp.com",
-  projectId: "hubbub-b5bdc",
-  storageBucket: "hubbub-b5bdc.appspot.com",
-  messagingSenderId: "1052834904275",
-  appId: "1:1052834904275:web:5806208c590e2f377f7c26"
+  apiKey: "AIzaSyDeHeWL93E4EaD757MaCT3gjhunhgseEHw",
+  authDomain: "hubbub-1d3ee.firebaseapp.com",
+  projectId: "hubbub-1d3ee",
+  storageBucket: "hubbub-1d3ee.appspot.com",
+  messagingSenderId: "799008486646",
+  appId: "1:799008486646:web:5ea49c81040a03f900a8d7"
 };
+
 
 export const app = initializeApp(firebaseConfig);
 export const auth = getAuth();
