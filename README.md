@@ -1,13 +1,13 @@
 # Installing Dependecies & Packages
+Installing the required depencies and packages to get started.
 
-
-## Install Node
-
+## Installation
+Use the paackage manager npm to install the app
 ```
 $ npm install
 ```
 
-## Install Firebase
+Add firebase support
 ```
 $ npm install firebase
 ```
