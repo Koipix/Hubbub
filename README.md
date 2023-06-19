@@ -23,7 +23,7 @@ Add UUID
 $ npm install uuid
 ```
 
-Install react-router-dom
+Install React Router
 ```
 $ npm install react-router-dom
 ```
