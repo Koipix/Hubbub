@@ -1,2 +1,10 @@
-# Hubbub
-A Chat Web Application that allows you to talk to your friends with React + Vite
+# Installing Dependecies & Packages
+
+```
+npm install
+```
+
+## Install Firebase
+```
+npm install firebase
+```
