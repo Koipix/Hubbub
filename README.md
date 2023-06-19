@@ -4,10 +4,10 @@
 ## Install Node
 
 ```
-npm install
+$ npm install
 ```
 
 ## Install Firebase
 ```
-npm install firebase
+$ npm install firebase
 ```
