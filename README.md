@@ -18,7 +18,12 @@ Install SASS
 $ npm install sass
 ```
 
-Lastly, add uuid
+Add UUID
 ```
 $ npm install uuid
+```
+
+Install react-router-dom
+```
+$ npm install react-router-dom
 ```
