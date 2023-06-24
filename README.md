@@ -7,23 +7,3 @@ Use the paackage manager npm to install the app
 ```
 $ npm install
 ```
-
-Add firebase support
-```
-$ npm install firebase
-```
-
-Install SASS
-```
-$ npm install sass
-```
-
-Add UUID
-```
-$ npm install uuid
-```
-
-Install React Router
-```
-$ npm install react-router-dom
-```
